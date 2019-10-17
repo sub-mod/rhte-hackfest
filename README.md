@@ -29,3 +29,5 @@ https://mirror.openshift.com/pub/openshift-v4/clients/ocp/4.1.14/openshift-clien
 ### Tekton examples    
 https://gist.github.com/sub-mod/55a69573df44fe3ebb250d1d3dce5f2c   
   
+### S2I workflow for Tensorflow Applications  
+https://mojo.redhat.com/groups/red-hat-artificial-intelligence-center-of-excellence-ai-coe/projects/thoth/blog/2019/09/12/s2i-workflows-for-tensorflow-applications
