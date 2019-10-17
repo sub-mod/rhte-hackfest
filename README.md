@@ -8,7 +8,6 @@
 ```
 oc login https://api.cluster-rhtegpu-0e4c.rhtegpu-0e4c.open.redhat.com:6443 
 username: user1  
-
 password:  
 namespace: tekton-demo  
 sa:  tekton-demo  
