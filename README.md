@@ -1,10 +1,9 @@
 # AICOE Hackfest
-----
 
-# step 1:- go to github.com/sub-mod/rhte-hackfest/   
-# step 2:- access tekton dashboard and openshift cluster
+## step 1:- go to github.com/sub-mod/rhte-hackfest/   
+## step 2:- access tekton dashboard and openshift cluster
   
-
+---
 ### Tekton-Dashboard  
 http://tekton-tekton-pipelines.apps.cluster-rhtegpu-0e4c.rhtegpu-0e4c.open.redhat.com/#/pipelines  
 
