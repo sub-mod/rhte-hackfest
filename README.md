@@ -12,6 +12,15 @@ password:
 namespace: tekton-demo  
 sa:  tekton-demo  
 ```
+
+```
+'oc' client: https://api.cluster-rhtegpu-0e4c.rhtegpu-0e4c.open.redhat.com:6443   
+user name : 'opentlc-mgr'   
+
+oc create sa <abc>
+oc adm policy add-scc-to-user privileged -z <abc> -n <NS>  
+oc adm policy add-role-to-user edit -z <abc> -n <NS> 
+```
 ### Openshift Master Console: 
 http://console-openshift-console.apps.cluster-rhtegpu-0e4c.rhtegpu-0e4c.open.redhat.com  
   
